@@ -8,6 +8,7 @@
            <li><a href="products.php">Productos</a></li>
            <li><a href="categories.php">Categorías</a></li>
            <li><a href="#">Ayuda</a></li>
+           <li><a href="#">Salir</a></li>
        </ul>
     </div>
     <div class="main-content">
