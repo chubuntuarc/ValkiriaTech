@@ -1,7 +1,7 @@
 <div class="row">
     <nav class="blue darken-4" role="navigation" style="z-index:999;">
         <div class="nav-wrapper container">
-            <a id="logo-container" href="#" class="brand-logo white-text">ValkiriaTech</a>
+            <a id="logo-container" href="../tech/" class="brand-logo white-text">ValkiriaTech</a>
             <ul class="right hide-on-med-and-down">
                 <li><a href="#modal-contact" class="white-text modal-trigger">Contacto</a>&nbsp;&nbsp;&nbsp;&nbsp;</li>
             </ul>

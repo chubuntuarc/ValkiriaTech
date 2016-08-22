@@ -1,7 +1,8 @@
 <?php
 session_start();
-$_SESSION["module"]="Dashboard";
-$_SESSION["module_description"]="Una vista completa de la información más relevante de tu negocio.";
+$_SESSION["module"]="Almacén";
+$_SESSION["module_description"]="Panel de vista general de inventario de productos.";
+$_SESSION["new_element"]="Nuevo conteo";
 include_once("front/layout.php");?>
 
 <div class="row">
@@ -41,4 +42,5 @@ include_once("front/layout.php");?>
 </div>
 </div>
 
+<?php include_once("front/floating_button.php") ?>
 <?php include_once("front/footer.php") ?>
