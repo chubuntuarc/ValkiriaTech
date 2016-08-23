@@ -1,4 +1,4 @@
-<?php session_start(); $_SESSION["module_id"]="3"; include_once("front/layout.php");?>
+<?php session_start(); $_SESSION["module_id"]="1"; include_once("front/layout.php");?>
 
 <div class="row">
     <div class="col s12 m7">

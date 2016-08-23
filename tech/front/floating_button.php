@@ -1,5 +1,5 @@
 <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
-    <?php echo '<a class="btn-floating btn-large blue tooltipped" data-position="left" data-delay="50" data-tooltip="'.$_SESSION["new_element"].'">'; ?>
+    <?php echo '<a  href="#new_form_modal" class="btn-floating btn-large blue tooltipped modal-trigger" data-position="left" data-delay="50" data-tooltip="'.$_SESSION["new_element"].'">'; ?>
      <i class="large material-icons">mode_edit</i>
    </a>
    <!-- <ul>
@@ -9,3 +9,4 @@
      <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
    </ul> -->
  </div>
+<?php include_once("front/new_form.php") ?>

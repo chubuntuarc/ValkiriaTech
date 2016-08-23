@@ -1,9 +1,4 @@
-<?php
-session_start();
-$_SESSION["module"]="Categorías";
-$_SESSION["module_description"]="Administra las categorías según la clasificación de tus productos y/o servicios";
-$_SESSION["new_element"]="Nueva categoría";
-include_once("front/layout.php");?>
+<?php session_start(); $_SESSION["module_id"]="5"; include_once("front/layout.php");?>
 
 <div class="row">
     <div class="col s12 m12">

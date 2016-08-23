@@ -1,9 +1,4 @@
-<?php
-session_start();
-$_SESSION["module"]="Productos";
-$_SESSION["module_description"]="Administra los productos que se van a manejar en tu negocio";
-$_SESSION["new_element"]="Nuevo producto";
-include_once("front/layout.php");?>
+<?php session_start(); $_SESSION["module_id"]="4"; include_once("front/layout.php");?>
 
 <div class="row">
     <div class="col s12 m12">
