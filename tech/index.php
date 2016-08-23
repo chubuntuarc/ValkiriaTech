@@ -1,8 +1,4 @@
-<?php
-session_start();
-$_SESSION["module"]="Dashboard";
-$_SESSION["module_description"]="Una vista completa de la información más relevante de tu negocio.";
-include_once("front/layout.php");?>
+<?php session_start(); $_SESSION["module_id"]="7"; include_once("front/layout.php");?>
 
 <div class="row">
     <div class="col s12 m7">
