@@ -1,8 +1,4 @@
-<?php
-session_start();
-$_SESSION["module"]="Perfil de Usuario";
-$_SESSION["module_description"]="Panel principal con la información del usuario.";
-include_once("front/layout.php");?>
+<?php session_start(); $_SESSION["module_id"]="6"; include_once("front/layout.php");?>
 
 <div class="row">
     <div class="col s12 m7">
