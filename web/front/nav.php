@@ -15,8 +15,8 @@
 <div id="modal-contact" class="modal bottom-sheet">
     <div class="modal-content">
       <h4>Contacto Valkiria</h4>
-      <p>Cel: (614) 250 5627</p>
-      <p>Correo: chubuntu@live.com</p>
+      <p>Cel: (614) 179 6627</p>
+      <p>Correo: valkiria.tech@gmail.com</p>
     </div>
     <div class="modal-footer">
       <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>

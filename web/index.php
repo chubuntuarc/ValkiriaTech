@@ -74,7 +74,7 @@
                     <h4>Nos gustaría conocerte</h4>
                     <p class="left-align light">Queremos saber de ti, y que buscas para hacer crecer tu negocio. Estamos a tu disposición buscando ofrecerte las mejores soluciones en tecnología.</p>
                     <h5>Estamos a tus órdenes</h5>
-                    <p>(614) 250 5627 | chubuntu@live.com</p>
+                    <p>(614) 179 6627 | valkiria.tech16@gmail.com</p>
                 </div>
             </div>
 
