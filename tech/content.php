@@ -1,4 +1,4 @@
-<?php session_start(); $_SESSION["module_id"]="3"; include_once("front/layout.php");?>
+<?php session_start(); $_SESSION["module_id"]=$_GET['m']; include_once("front/layout.php");?>
 
 <div class="row">
     <div class="col s12 m7">
@@ -11,7 +11,7 @@
                     <p>I am a very simple card. I am good at containing small bits of information.</p>
                 </div>
                 <div class="card-action">
-                    <a href="#">This is a link</a>
+                    <a href="#">This is a link <?php echo "Modulo = " . $_SESSION["module_id"]; ?></a>
                 </div>
             </div>
         </div>
@@ -33,9 +33,14 @@
     </div>
 </div>
 
-</div>
-</div>
-</div>
+<?php include_once("front/list.php"); ?>
 
-<?php include_once("front/floating_button.php") ?>
-<?php include_once("front/footer.php") ?>
+</div>
+</div>
+</div>
+<?php
+if($_SESSION["new_element"]){
+        include_once("front/floating_button.php");
+}
+include_once("front/footer.php")
+?>

@@ -33,7 +33,7 @@
     </div>
 </div>
 
-<?php include_once("front/list.php"); ?>
+
 
 </div>
 </div>

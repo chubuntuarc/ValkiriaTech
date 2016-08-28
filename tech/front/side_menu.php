@@ -3,12 +3,13 @@
            <li id="user_img_side" class="center-align">
                <img src="https://avatars2.githubusercontent.com/u/9604554?v=3&s=460" alt="" class="circle responsive-img" style="height:150px;width:150px;">
            </li>
-           <li><a href="profile.php">Jesus Arciniega</a></li>
-           <li><a href="users.php">Usuarios</a></li>
-           <li><a href="companies.php">Empresas</a></li>
-           <li><a href="warehouse.php">Almacén</a></li>
-           <li><a href="products.php">Productos / Servicios</a></li>
-           <li><a href="categories.php">Categorías</a></li>
+           <li><a href="content.php?m=6">Jesus Arciniega</a></li>
+           <li><a href="content.php?m=1">Usuarios</a></li>
+           <li><a href="content.php?m=2">Empresas</a></li>
+           <li><a href="content.php?m=8">Módulos</a></li>
+           <li><a href="content.php?m=3">Almacén</a></li>
+           <li><a href="content.php?m=4">Productos / Servicios</a></li>
+           <li><a href="content.php?m=5">Categorías</a></li>
            <li><a href="#">Ayuda</a></li>
            <li><a href="#">Salir</a></li>
        </ul>
