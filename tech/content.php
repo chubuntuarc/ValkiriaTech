@@ -11,7 +11,7 @@
                     <p>I am a very simple card. I am good at containing small bits of information.</p>
                 </div>
                 <div class="card-action">
-                    <a href="#">This is a link <?php echo "Modulo = " . $_SESSION["module_id"]; ?></a>
+                    <a href="#">This is a link <?php echo "Lista? = " . $_SESSION["module_id"]; ?></a>
                 </div>
             </div>
         </div>
@@ -33,7 +33,7 @@
     </div>
 </div>
 
-<?php include_once("front/list.php"); ?>
+<?php if($_SESSION["list"]){ include_once("front/list.php"); } ?>
 
 </div>
 </div>
