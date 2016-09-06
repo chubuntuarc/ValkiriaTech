@@ -1,6 +1,8 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 include_once("back/db.php");
-$sql="select * from module where id_module = ".$_SESSION["module_id"]."";
+$sql="select * from module where id_module = " . mysql_real_escape_string($_SESSION["module_id"]);
 $result=mysql_query($sql);
 while ($row=@mysql_fetch_array($result))
 {

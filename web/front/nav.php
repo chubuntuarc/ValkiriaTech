@@ -1,6 +1,6 @@
 <nav class="black" role="navigation" style="z-index:999;">
     <div class="nav-wrapper container">
-        <a id="logo-container" href="#" class="brand-logo white-text">ValkiriaTech</a>
+        <a id="logo-container" href="#" class="brand-logo white-text">Arciniega</a>
         <ul class="right hide-on-med-and-down">
             <li><a href="#modal-contact" class="white-text modal-trigger">Contacto</a></li>
         </ul>
@@ -14,9 +14,9 @@
 
 <div id="modal-contact" class="modal bottom-sheet">
     <div class="modal-content">
-      <h4>Contacto Valkiria</h4>
-      <p>Cel: (614) 179 6627</p>
-      <p>Correo: valkiria.tech@gmail.com</p>
+      <h4>Contacto</h4>
+      <p>Cel: (614) 250 5627</p>
+      <p>Correo: chubuntu@live.com</p>
     </div>
     <div class="modal-footer">
       <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>

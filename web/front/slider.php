@@ -30,7 +30,7 @@
                     <div class="flex__container flex--blaziken flex--active" data-slide="3">
                         <div class="flex__item flex__item--left">
                             <div class="flex__content">
-                                <p class="text--sub">Valkiria Tech</p>
+                                <p class="text--sub">Arciniega</p>
                                 <h1 class="text--big">Inventarios</h1>
                                 <p class="text--normal">Software especializado en el control de inventarios, controla cada uno de los aspectos de tu negocio gracias a nuestra herramienta de manejo de inventarios.</p>
                             </div>
@@ -42,9 +42,9 @@
                     <div class="flex__container flex--dialga animate--start" data-slide="4">
                         <div class="flex__item flex__item--left">
                             <div class="flex__content">
-                                <p class="text--sub">VALKIRIA TECH</p>
+                                <p class="text--sub">Arciniega</p>
                                 <h1 class="text--big">Control Médico</h1>
-                                <p class="text--normal">Con nuestra herramienta médica, controla tus citas, historial de tus pacientes, control de pacientes y gastos sin importar donde te encuentres</p>
+                                <p class="text--normal">Controla tus citas, historial de tus pacientes, control de pacientes y gastos sin importar donde te encuentres</p>
                                 </div>
                                 <p class="text__background">Médico</p>
                             </div>

@@ -58,7 +58,7 @@
         <div class="section no-pad-bot">
             <div class="container">
                 <div class="row center">
-                    <h5 class="header col s12 light">Somos una nueva generación de desarrolladores trabajando para ti</h5>
+                    <!-- <h5 class="header col s12 light">Somos una nueva generación de desarrolladores trabajando para ti</h5> -->
                 </div>
             </div>
         </div>
@@ -71,10 +71,10 @@
             <div class="row">
                 <div class="col s12 center">
                     <h3><i class="mdi-content-send brown-text"></i></h3>
-                    <h4>Nos gustaría conocerte</h4>
-                    <p class="left-align light">Queremos saber de ti, y que buscas para hacer crecer tu negocio. Estamos a tu disposición buscando ofrecerte las mejores soluciones en tecnología.</p>
-                    <h5>Estamos a tus órdenes</h5>
-                    <p>(614) 179 6627 | valkiria.tech16@gmail.com</p>
+                    <h4>Me gustaría conocerte</h4>
+                    <p class="left-align light">¿Que buscas para hacer crecer tu negocio?. Estoy a tu disposición buscando ofrecerte las mejores soluciones en tecnología.</p>
+                    <h5>A tus órdenes</h5>
+                    <p>(614) 250 5627 | chubuntu@live.com</p>
                 </div>
             </div>
 

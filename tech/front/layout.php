@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-    <title>Valkiria - <?php echo $_SESSION["module"]; ?></title>
+    <title><?php echo $_SESSION["module"]; ?></title>
 
     <!-- CSS  -->
     <link href="../css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
